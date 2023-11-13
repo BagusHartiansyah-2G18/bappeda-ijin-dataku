@@ -76,9 +76,9 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'bappeda9_root',
-	'password' => 'o8QF[hYqKzRp',
-	'database' => 'bappeda9_home',
+	'username' => 'bapped13_adm',
+	'password' => 'cO.XP.^b=8]Q',
+	'database' => 'bapped13_ijin_dataku',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
